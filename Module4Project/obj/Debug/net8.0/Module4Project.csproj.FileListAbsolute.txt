@@ -1,0 +1,5 @@
+/workspaces/COP2360/Module4Project/obj/Debug/net8.0/Module4Project.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/COP2360/Module4Project/obj/Debug/net8.0/Module4Project.AssemblyInfoInputs.cache
+/workspaces/COP2360/Module4Project/obj/Debug/net8.0/Module4Project.AssemblyInfo.cs
+/workspaces/COP2360/Module4Project/obj/Debug/net8.0/Module4Project.csproj.CoreCompileInputs.cache
+/workspaces/COP2360/Module4Project/obj/Debug/net8.0/Module4Project.sourcelink.json

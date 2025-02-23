@@ -5,10 +5,10 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "C#: <project-name> Debug",
+            "name": "C#: <Module_4> Debug",
             "type": "dotnet",
             "request": "launch",
-            "projectPath": "${workspaceFolder}/<relative-path-to-project-folder><project-name>.csproj"
+            "projectPath": "${workspaceFolder}/<relative-path-to-project-folder><Module_4>.csproj"
         }
 
     ]

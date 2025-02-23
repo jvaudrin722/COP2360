@@ -1,0 +1,15 @@
+/workspaces/COP2360/mynewapp/bin/Debug/net8.0/mynewapp
+/workspaces/COP2360/mynewapp/bin/Debug/net8.0/mynewapp.deps.json
+/workspaces/COP2360/mynewapp/bin/Debug/net8.0/mynewapp.runtimeconfig.json
+/workspaces/COP2360/mynewapp/bin/Debug/net8.0/mynewapp.dll
+/workspaces/COP2360/mynewapp/bin/Debug/net8.0/mynewapp.pdb
+/workspaces/COP2360/mynewapp/obj/Debug/net8.0/mynewapp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/COP2360/mynewapp/obj/Debug/net8.0/mynewapp.AssemblyInfoInputs.cache
+/workspaces/COP2360/mynewapp/obj/Debug/net8.0/mynewapp.AssemblyInfo.cs
+/workspaces/COP2360/mynewapp/obj/Debug/net8.0/mynewapp.csproj.CoreCompileInputs.cache
+/workspaces/COP2360/mynewapp/obj/Debug/net8.0/mynewapp.sourcelink.json
+/workspaces/COP2360/mynewapp/obj/Debug/net8.0/mynewapp.dll
+/workspaces/COP2360/mynewapp/obj/Debug/net8.0/refint/mynewapp.dll
+/workspaces/COP2360/mynewapp/obj/Debug/net8.0/mynewapp.pdb
+/workspaces/COP2360/mynewapp/obj/Debug/net8.0/mynewapp.genruntimeconfig.cache
+/workspaces/COP2360/mynewapp/obj/Debug/net8.0/ref/mynewapp.dll
